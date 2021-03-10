@@ -1,0 +1,17 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+h1{
+  text-align: center;
+ 
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+  height: 100%;
+  width: 100%;
+  margin-top: 10px;
+  margin-left: 0;
+ 
+}
